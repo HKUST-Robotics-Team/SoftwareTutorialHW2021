@@ -14,7 +14,7 @@ Please read the following instructions carefully.
     2. Tap "Manage Access" on the left bar.
     3. Invite a collaborator and type in `HKUST-Robotics-Team`.
     4. You are done!
-3. Edit the README with your full name or ITSC at the top. This allows us to identify you and assign you the right grade.
+3. Edit the README with your full name or ITSC at the top. This allows us to identify and assign the right grade to you.
 
 ## Submitting Homework
 
