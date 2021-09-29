@@ -20,7 +20,7 @@ Please read the following instructions carefully.
 
 * Push your code into the corresponding folders for homework submission.
 * We will grade your Homework 1 from your repo submission.
-* Other homework also needs to be demo'd and presented either during class or in CYT3007.
+* Other homework also needs to be demo'd and presented either during class or in CYT3007B.
 
 ----
 
