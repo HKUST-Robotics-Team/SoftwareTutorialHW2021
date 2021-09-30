@@ -7,8 +7,10 @@ HKUST Robotics Team / Software Tutorial / Homework Submission Template
 ## How to Use
 Please read the following instructions carefully.
 
-1. Clone this repo by clicking the shiny green "Use this template" button.
+1. Clone this repo by clicking the shiny green <kbd>Use this template</kbd> button.
+    * Put something sensible as your repo name (e.g. SoftwareTutorialHW2021).
     * Make your repo **private**.
+    * Click <kbd>Create repository from template</kbd>.
 2. Add `HKUST-Robotics-Team` as a collaborator in your own repo. Otherwise, we won't be able to review your first set of homework.
     1. Go to Settings in your repo.
     2. Tap "Manage Access" on the left bar.
